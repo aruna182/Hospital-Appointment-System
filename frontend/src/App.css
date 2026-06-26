@@ -1,0 +1,35 @@
+body{
+background:gray;
+}
+
+.sidebar{
+background:blue;
+height:100vh;
+padding:20px;
+}
+
+.sidebar ul{
+list-style:none;
+}
+
+.sidebar li{
+margin-top:20px;
+}
+
+.sidebar a{
+color:white;
+text-decoration:none;
+}
+
+.card{
+border:none;
+border-radius:15px;
+}
+
+table{
+background:white;
+}
+
+.navbar {
+    background-color: black !important;
+}
